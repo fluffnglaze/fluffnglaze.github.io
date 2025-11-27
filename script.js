@@ -1,25 +1,18 @@
-// Mobile menu toggle
-const menuBtn = document.getElementById('menu-btn');
-const nav = document.getElementById('nav');
-menuBtn.addEventListener('click', () => {
-  if(nav.style.display === 'flex'){
-    nav.style.display = '';
-  } else {
-    nav.style.display = 'flex';
-    nav.style.flexDirection = 'column';
-    nav.style.gap = '1rem';
-  }
-});
+// Optional: make extra donuts appear randomly on screen
+const body = document.body;
 
-// Reveal on scroll
-const reveals = document.querySelectorAll('.reveal');
-const observer = new IntersectionObserver((entries) => {
-  entries.forEach(e => {
-    if(e.isIntersecting){
-      e.target.classList.add('visible');
-      observer.unobserve(e.target);
-    }
-  });
-},{threshold:0.15});
+function createDonut() {
+  const donut = document.createElement('div');
+  donut.className = 'donut';
+  donut.style.width = donut.style.height = Math.random() * 30 + 20 + 'px';
+  donut.style.background = `radial-gradient(circle at 30% 30%, #ffcade, #ffd700)`;
+  donut.style.position = 'absolute';
+  donut.style.left = Math.random() * window.innerWidth + 'px';
+  donut.style.top = Math.random() * window.innerHeight + 'px';
+  donut.style.borderRadius = '50%';
+  donut.style.animation = `float ${3+Math.random()*4}s linear infinite`;
+  body.appendChild(donut);
+  setTimeout(()=> donut.remove(), 6000); // remove after animation
+}
 
-reveals.forEach(r => observer.observe(r));
+setInterval(createDonut, 800);
