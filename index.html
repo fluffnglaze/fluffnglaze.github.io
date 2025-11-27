@@ -3,53 +3,82 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Fluff n Glaze — Donut Bakery</title>
+  <title>Fluff n Glaze — Sweet Donuts</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+  <!-- Header / Nav -->
   <header>
-    <h1>Fluff n Glaze 🍩</h1>
-    <nav>
+    <div class="logo">Fluff n Glaze</div>
+    <nav id="nav">
+      <a href="#home" class="active">Home</a>
       <a href="#about">About</a>
       <a href="#menu">Menu</a>
       <a href="#contact">Contact</a>
     </nav>
+    <div id="menu-btn">&#9776;</div>
   </header>
 
-  <main>
-    <section id="hero">
-      <div class="giant-donut">
-        <span class="donut" style="--i:1"></span>
-        <span class="donut" style="--i:2"></span>
-        <span class="donut" style="--i:3"></span>
-        <span class="donut" style="--i:4"></span>
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <div class="hero-inner">
+      <div class="intro reveal">
+        <h1>Welcome to Fluff n Glaze 🍩</h1>
+        <p class="lead">Sweet, fluffy, and irresistible donuts — handcrafted with love!</p>
+        <div class="cta">
+          <a class="btn" href="#menu">See Menu</a>
+          <a class="btn ghost" href="#contact">Order Now</a>
+        </div>
       </div>
-      <h2>Sweet treats that make life fun!</h2>
-    </section>
+      <div class="donut-container"></div>
+    </div>
+  </section>
 
-    <section id="about">
-      <h2>About Us</h2>
-      <p>Fluff n Glaze is your favorite bakery bringing joy with every bite. From classic glazed donuts to funky rainbow flavors, we make your donut dreams come true!</p>
-    </section>
+  <!-- About Section -->
+  <section id="about" class="reveal">
+    <h2 class="heading">About Fluff n Glaze</h2>
+    <p>Fluff n Glaze is a bakery dedicated to making the fluffiest, most delicious donuts in town. Every donut is handcrafted with care, glazed to perfection, and guaranteed to make your day sweeter.</p>
+    <div class="image-placeholder">[About Image Placeholder]</div>
+  </section>
 
-    <section id="menu">
-      <h2>Our Menu</h2>
-      <div class="menu-grid">
-        <div class="menu-item">🍩 Classic Glaze</div>
-        <div class="menu-item">🍩 Strawberry Sprinkle</div>
-        <div class="menu-item">🍩 Chocolate Dream</div>
-        <div class="menu-item">🍩 Rainbow Blast</div>
+  <!-- Menu Section -->
+  <section id="menu" class="reveal">
+    <h2 class="heading">Our Donuts</h2>
+    <div class="grid projects-grid">
+      <div class="project">
+        <div class="image-placeholder">[Donut Image]</div>
+        <h4>Strawberry Glazed</h4>
+        <p>Freshly baked donut with a sweet strawberry glaze.</p>
       </div>
-    </section>
+      <div class="project">
+        <div class="image-placeholder">[Donut Image]</div>
+        <h4>Chocolate Dream</h4>
+        <p>Rich chocolate-coated donut, a chocolate lover's dream.</p>
+      </div>
+      <div class="project">
+        <div class="image-placeholder">[Donut Image]</div>
+        <h4>Pink Sprinkle</h4>
+        <p>Fun and colorful donut topped with pink sprinkles.</p>
+      </div>
+    </div>
+  </section>
 
-    <section id="contact">
-      <h2>Contact</h2>
-      <p>Email us at <a href="mailto:hello@fluffnglaze.com">hello@fluffnglaze.com</a></p>
-    </section>
-  </main>
+  <!-- Contact Section -->
+  <section id="contact" class="reveal">
+    <h2 class="heading">Contact & Orders</h2>
+    <form onsubmit="event.preventDefault();alert('Replace this with your preferred order/contact system');">
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Email" required>
+      <textarea placeholder="Your Message / Order" rows="4" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
 
   <footer>
-    © 2025 Fluff n Glaze — All Rights Reserved
+    © 2025 Fluff n Glaze • Sweeten Your Day
   </footer>
 
   <script src="script.js"></script>
