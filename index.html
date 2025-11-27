@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fluff n Glaze — Donut Bakery</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+<script src="script.js" defer></script>
+<meta name="description" content="Fluff n Glaze Donut Bakery – Fresh, delicious donuts made with love. Order online or visit us today!">
+</head>
+<body>
+<header>
+  <div class="logo">Fluff n Glaze</div>
+  <nav id="nav">
+    <a href="#home" class="active">Home</a>
+    <a href="#about">About</a>
+    <a href="#menu">Menu</a>
+    <a href="#contact">Contact</a>
+  </nav>
+  <div id="menu-btn">&#9776;</div>
+</header>
+
+<main>
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <div class="hero-content reveal">
+      <h1>Delight in Every Bite</h1>
+      <p>Freshly baked donuts, made daily with love and the finest ingredients.</p>
+      <a href="#menu" class="btn">View Menu</a>
+    </div>
+    <div class="hero-image reveal">
+      <img src="donut-hero.png" alt="Delicious Donuts">
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="reveal">
+    <h2 class="heading">About Us</h2>
+    <p>Fluff n Glaze started with a passion for creating donuts that bring joy. From classic glazed to unique flavors, our donuts are made with care and creativity.</p>
+  </section>
+
+  <!-- Menu Section -->
+  <section id="menu" class="reveal">
+    <h2 class="heading">Our Donuts</h2>
+    <div class="grid menu-grid">
+      <div class="menu-item">
+        <img src="donut1.png" alt="Strawberry Glazed">
+        <h4>Strawberry Glazed</h4>
+        <p>Sweet, fruity, and irresistible.</p>
+      </div>
+      <div class="menu-item">
+        <img src="donut2.png" alt="Chocolate Sprinkle">
+        <h4>Chocolate Sprinkle</h4>
+        <p>Rich chocolate with colorful sprinkles.</p>
+      </div>
+      <div class="menu-item">
+        <img src="donut3.png" alt="Maple Glaze">
+        <h4>Maple Glaze</h4>
+        <p>Classic flavor with a gourmet twist.</p>
+      </div>
+      <div class="menu-item">
+        <img src="donut4.png" alt="Pink Velvet">
+        <h4>Pink Velvet</h4>
+        <p>Soft, fluffy, and decadently pink.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="reveal">
+    <h2 class="heading">Contact & Orders</h2>
+    <form onsubmit="event.preventDefault(); alert('Order form submitted!');">
+      <input type="text" placeholder="Your Name" required>
+      <input type="email" placeholder="Email" required>
+      <textarea placeholder="Message / Order Details" rows="4"></textarea>
+      <button type="submit" class="btn">Send</button>
+    </form>
+  </section>
+</main>
+
+<footer>
+  © 2025 Fluff n Glaze — Sweet Moments, Every Day
+</footer>
+</body>
+</html>
