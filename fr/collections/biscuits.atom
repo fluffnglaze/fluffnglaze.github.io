@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="fr" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fluffnglazebakery.com/fr/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fluffnglazebakery.com/fr/collections/biscuits.atom"/>
+  <title>fluffnglaze Bakery</title>
+  <updated>2025-02-10T14:39:41-05:00</updated>
+  <author>
+    <name>fluffnglaze Bakery</name>
+  </author>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8228003020997</id>
+    <published>2025-02-10T14:39:41-05:00</published>
+    <updated>2025-02-10T14:39:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/the-tory"/>
+    <title>Le Tory</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/image0_3.jpg?v=1739216168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offrez-vous un pur délice chocolaté avec notre biscuit Tory. C'est un délice riche en chocolat noir double, rempli de noisettes grillées, fourré de ganache au chocolat soyeuse et agrémenté de chocolat au caramel salé Valrhona pour un équilibre parfait entre sucré et salé. Chaque bouchée est une fusion irrésistible de saveurs profondes de cacao, de noisettes croquantes et d'un centre fondant succulent.</p>
+<p> Plus qu’un simple biscuit, cette friandise donne en retour !</p>
+<p> Une partie de chaque achat soutient <strong>la Lighter Foundation</strong> , qui contribue à sensibiliser et à fournir des ressources pour la santé mentale. Satisfaisez votre gourmandise tout en faisant une différence. ❤️ 🍪</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8228003020997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8131573940421</id>
+    <published>2024-10-29T12:21:19-04:00</published>
+    <updated>2024-10-29T12:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/frozen-cookie-dough-1"/>
+    <title>Pâte à biscuits surgelée</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/frozencookiedough.jpg?v=1730218858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Vous souhaitez faire cuire nos biscuits à la maison ? Nous vous proposons notre pâte à biscuits congelée et prête à cuire pour que vous puissiez la déguster à tout moment. Il suffit de la conserver congelée jusqu'à ce que vous soyez prêt à la déguster, puis de la mettre directement dans votre four préchauffé pendant quelques minutes (les instructions complètes se trouvent au dos du sac)</p>
+<p> Paquet de 8 de nos saveurs les plus populaires : 2 aux pépites de chocolat, 2 s'mores, 2 anniversaires et 2 caramel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8131573940421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8128007602373</id>
+    <published>2024-10-23T15:02:35-04:00</published>
+    <updated>2024-10-23T15:02:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/variety-box"/>
+    <title>Boîte de six</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/5_bf189000-ffa0-4ee8-a5f8-9e53b812c0f3.png?v=1729710066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Vous cherchez une boîte qui répond à la plupart des critères de fluffnglaze Cookies ? Que diriez-vous d'une petite dégustation de biscuits avec notre boîte variée de 6 biscuits.</p>
+<p> Il y en a pour tous les goûts.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8128007602373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8110036353221</id>
+    <published>2024-10-04T13:59:13-04:00</published>
+    <updated>2024-10-04T13:59:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/black-white"/>
+    <title>Noir et blanc</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-24.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8">Notre biscuit noir et blanc est une version dérivée du célèbre biscuit de New York… Nous avons repris le nom mais l'avons réimaginé. Un biscuit au caramel avec des morceaux de notre brownie et de notre blondie coincés au centre ; c'est pourquoi il s'appelle désormais le biscuit noir et blanc.</p>
+<p> Nous pensons que notre version reconstruite est beaucoup plus riche et bien plus fabuleuse !</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8110036353221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8110055948485</id>
+    <published>2024-10-04T13:55:55-04:00</published>
+    <updated>2024-10-04T13:55:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/mason"/>
+    <title>Maçon</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-23.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"> <span>La version de fluffnglaze du biscuit traditionnel new-yorkais aux pépites de chocolat, incorporant de délicieuses noix grillées, du chocolat noir et du chocolat au lait.</span><b></b></p>
+<p dir="ltr"> <span>Nommé d'après l'un de nos clients qui a spécifiquement demandé cette recette, le biscuit Mason est à la hauteur de ses attentes rigoureuses et des nôtres.</span></p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8110055948485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8110056964293</id>
+    <published>2024-10-04T13:52:40-04:00</published>
+    <updated>2024-10-04T13:52:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/pb-j"/>
+    <title>PB &amp;amp; J</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-25.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"> <meta charset="utf-8">Imaginez un sandwich au beurre de cacahuète et à la confiture, mais sous forme de biscuit ! D'un poids de 170 g, il est garni de beurre de cacahuète crémeux et de confiture de framboise.</p>
+<p> Nous avons ajouté du chocolat au lait et du caramel pour rehausser la texture de cette délicieuse friandise !</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8110056964293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/7910872154309</id>
+    <published>2024-07-17T14:37:48-04:00</published>
+    <updated>2024-07-17T14:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/birthday-sprinkle"/>
+    <title>Anniversaire</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-15.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Créé en hommage au biscuit saupoudré traditionnel ; le chocolat blanc et les paillettes colorées se combinent pour créer une petite fête dans votre bouche.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/7910872154309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/8021251621061</id>
+    <published>2024-07-17T14:32:26-04:00</published>
+    <updated>2024-07-17T14:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/caramel"/>
+    <title>Caramel</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-20.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"> <span>Le biscuit le plus unique de notre comptoir est composé d'une combinaison de chocolat au lait, de caramel et de morceaux de caramel. Chaque bouchée vous ramènera à un moment nostalgique du temps.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/8021251621061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/7910878380229</id>
+    <published>2024-05-22T08:52:53-04:00</published>
+    <updated>2024-05-22T08:52:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/smores"/>
+    <title>S&apos;mores</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-17.png?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> <span>Inspirés des souvenirs créés autour des feux de camp d'été, nos guimauves, notre chocolat noir et nos biscuits Graham, nos biscuits S'mores, auront le même goût que ces nuits d'été d'enfance.</span></p>
+<p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/7910878380229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/7910861832389</id>
+    <published>2024-05-22T08:46:08-04:00</published>
+    <updated>2024-05-22T08:46:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/strawberry-cookie"/>
+    <title>Shortcake aux fraises</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-16.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Une variante de notre shortcake aux fraises combiné dans un biscuit aux morceaux. Ce biscuit acidulé contient de gros morceaux de chocolat blanc et des fraises déshydratées et moelleuses.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/7910861832389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/7866059194565</id>
+    <published>2024-05-03T10:11:08-04:00</published>
+    <updated>2024-05-03T10:11:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/double-dark-chunk"/>
+    <title>Morceaux doublement foncés</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-19.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Doublez le chocolat, doublez le plaisir ! Ce biscuit est rempli de 100 % cacao et de pépites de chocolat noir. Si vous êtes amateur de chocolat, ce biscuit parlera certainement votre langue d'amour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/7866059194565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/7866059030725</id>
+    <published>2024-05-03T10:10:51-04:00</published>
+    <updated>2024-05-03T10:10:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/judy-cookie"/>
+    <title>Judy Cookie</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-18.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"> <span>Le célèbre biscuit Judy est né de l'imagination de notre cliente tenace et déterminée, désireuse d'avoir un biscuit nommé en son honneur. Le biscuit Judy a été créé selon son goût particulier, fourré de pacanes grillées et de chocolat au lait, caramel salé. Le biscuit Judy est devenue la star du spectacle.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/7866059030725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/fr/products/7746617114821</id>
+    <published>2024-04-05T15:28:57-04:00</published>
+    <updated>2024-04-05T15:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/fr/products/cookie-4"/>
+    <title>Morceaux de chocolat</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-13.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Fournisseur : </strong>fluffnglaze Bakery<br>
+        <strong>Type : </strong><br>
+        <strong>Prix : </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Notre version du biscuit aux pépites de chocolat classique, débordant de morceaux de chocolat blanc et noir. Parfait pour l'amateur de biscuits traditionalistes en vous. Celui-ci fait mouche à chaque fois.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/fr/products/7746617114821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fluffnglazebakery.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fluffnglazebakery.com/collections/cakes.atom"/>
+  <title>fluffnglaze Bakery</title>
+  <updated>2025-09-18T11:48:18-04:00</updated>
+  <author>
+    <name>fluffnglaze Bakery</name>
+  </author>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8428488196293</id>
+    <published>2025-09-18T11:48:18-04:00</published>
+    <updated>2025-09-18T11:48:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/black-forest-cake"/>
+    <title>Black Forest Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/BlackForestCake-01.jpg?v=1758210191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/black-forest-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This cake is a kid-friendly twist on the classic Black Forest, with no alcohol, so everyone can enjoy it! We've layered rich, moist chocolate cake with a vibrant cherry compote and swirls of decadent chocolate ganache. Each layer is studded with chocolate chunks for an extra boost of texture and flavor. The entire cake is then cloaked in a light and creamy vanilla mascarpone frosting that perfectly balances the deep richness of the chocolate and cherry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8428488196293</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8428488196293</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8426111434949</id>
+    <published>2025-09-17T11:46:02-04:00</published>
+    <updated>2025-09-17T11:46:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/honey-and-pistachio-cake"/>
+    <title>Honey, Apple and Pistachio Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/HoneyPistachioCake-01.jpg?v=1758123752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/honey-and-pistachio-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>We've updated our classic honey cake with a delicious twist to welcome the fall season. Our honey cake is layered with a rich apple custard that perfectly captures the cozy flavours of autumn. A light and airy pistachio-mascarpone frosting brings the elements together for a truly unforgettable dessert.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8426111434949</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8426111434949</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8108020957381</id>
+    <published>2025-09-11T15:01:18-04:00</published>
+    <updated>2025-09-11T15:01:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/carrot-cake"/>
+    <title>Carrot Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-4.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/carrot-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">One of the bakehouse’s favourites is our version of the classic carrot cake. It’s become a staple cake on the menu with brown butter frosting, and salted caramel.</p>
+<p>The texture and flavours are definitely memorable, and you will undoubtedly be a fan once you give it a try.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8108020957381</id>
+      <title>6”</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8108020957381</id>
+      <title>9”</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8113242013893</id>
+    <published>2025-06-20T15:16:33-04:00</published>
+    <updated>2025-06-20T15:16:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/biscoff-cookie-butter-cake"/>
+    <title>Biscoff Cookie Butter Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/1.png?v=1729541687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/biscoff-cookie-butter-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Just like when you would dip your spoon in the Biscoff jar, this vanilla cake with Biscoff butter and salted caramel, bits of milk chocolate toffee crunch topped with our s’mores chunk cookies has those familiar flavours that everyone loved growing up.<b id="docs-internal-guid-a3214cdf-7fff-eab5-2e19-32b5112fb6ca"><span> </span></b><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8113242013893</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8113242013893</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8113244897477</id>
+    <published>2025-06-18T13:43:54-04:00</published>
+    <updated>2025-06-18T13:43:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/smores-1"/>
+    <title>Smore&apos;s Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/smores.heic?v=1728435579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/smores-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Just like the memory of summer around the campfire experience! We have just elevated that delicious summer treat into a cake topped with s’mores cookies.</p>
+<p> Dense chocolate cake, layered with marshmallow purée and homemade graham crumbs , covered in dark chocolate ganache . It’s truly something not to be missed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8113244897477</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8113244897477</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7866061193413</id>
+    <published>2025-04-16T09:39:58-04:00</published>
+    <updated>2025-04-16T09:39:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/chocolate-ganache-cake"/>
+    <title>Chocolate Ganache Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/IMG_2112.jpg?v=1744828542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/chocolate-ganache-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>A chocolate lover's delight! This is our dense chocolate cake layers and topped with velvety rich chocolate ganache with our house-blend espresso to enhance the deep flavours.</span><b></b></p>
+<p dir="ltr"><span>Chocoholics rejoice!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866061193413</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866061193413</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7866063421637</id>
+    <published>2024-10-04T14:21:28-04:00</published>
+    <updated>2024-10-04T14:21:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/chocolate-pecan-caramel-cake"/>
+    <title>Celebration Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/celebrationscake2.jpg?v=1721247301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Surprise! Our celebration cake is a four-tiered layer cake with pops of vanilla cookie dough and vanilla cream frosting draped in rainbow sprinkles. This cake is everything: nostalgic, fun, a true party in your mouth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866063421637</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7866064208069</id>
+    <published>2024-10-04T14:21:15-04:00</published>
+    <updated>2024-10-04T14:21:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/rainbow-birthday-cake"/>
+    <title>Rainbow Birthday Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/Untitled_design_29.png?v=1729798251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.00 - 80.00
+            <a href="https://fluffnglazebakery.com/products/rainbow-birthday-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our signature Rainbow birthday cake needs no introduction. We've taken everyone's favourite classic white birthday cake and elevated it with the highest-quality ingredients including delectable vanilla butter cream. </p>
+<p>The perfect choice to put a smile on the face of anyone blowing out the candles, and everyone else at the party. </p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866064208069</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866064208069</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8108023742661</id>
+    <published>2024-10-03T11:45:16-04:00</published>
+    <updated>2024-10-03T11:45:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/lemon-raspberry-cake"/>
+    <title>Lemon-Raspberry Cream Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-2.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.00 - 110.00
+            <a href="https://fluffnglazebakery.com/products/lemon-raspberry-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Vibrant and decadent, this cake is an explosion of fruity, zesty and citrus flavours.</p>
+<p> Ruby-red raspberries are baked into the batter and paired with our creamy lemon curd and topped with our tangy lemon and white chocolate cookies.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8108023742661</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8108023742661</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">110.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7866063880389</id>
+    <published>2024-05-03T10:19:54-04:00</published>
+    <updated>2024-05-03T10:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/full-frosting-rainbow-birthday-cake"/>
+    <title>Full Frosting Rainbow Birthday Cake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-5.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            70.00 - 90.00
+            <a href="https://fluffnglazebakery.com/products/full-frosting-rainbow-birthday-cake">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Our signature Rainbow birthday cake needs no introduction. We've taken everyone's favourite classic white birthday cake and elevated it with a sweet and salty vanilla buttercream covering the whole cake. Except this one is fully frosted. </span><b></b></p>
+<p dir="ltr"><span>The perfect choice to put a smile on the face of anyone blowing out the candles, and everyone else at the party.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866063880389</id>
+      <title>6&quot;</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866063880389</id>
+      <title>9&quot;</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

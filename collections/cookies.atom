@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://fluffnglazebakery.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://fluffnglazebakery.com/collections/cookies.atom"/>
+  <title>fluffnglaze Bakery</title>
+  <updated>2025-02-10T14:39:41-05:00</updated>
+  <author>
+    <name>fluffnglaze Bakery</name>
+  </author>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8228003020997</id>
+    <published>2025-02-10T14:39:41-05:00</published>
+    <updated>2025-02-10T14:39:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/the-tory"/>
+    <title>The Tory</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/image0_3.jpg?v=1739216168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in pure chocolate bliss with our Tory Cookie. It's a rich, double dark chocolate delight packed with toasted hazelnuts, stuffed with silky chocolate ganache, and finished with Valrhona salted caramel chocolate for the perfect balance of sweet and salty. Every bite is an irresistible fusion of deep cocoa flavours, crunchy hazelnuts, and a luscious molten center.</p>
+<p>More than just a cookie, this treat gives back! </p>
+<p>A portion of every purchase supports <strong>The Lighter Foundation</strong>, helping raise awareness and provide resources for mental health. Satisfy your sweet tooth while making a difference. ❤️ 🍪</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8228003020997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8131573940421</id>
+    <published>2024-10-29T12:21:19-04:00</published>
+    <updated>2024-10-29T12:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/frozen-cookie-dough-1"/>
+    <title>Frozen Cookie Dough</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/frozencookiedough.jpg?v=1730218858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Want to bake our cookies at home? We offer our cookie dougn frozen and ready to bake for you to enjoy anytime. Simply keep frozen until you are ready to enjoy, then pop them direcly in your preheated oven for a few minutes (full instructions are on the back of the bag) </p>
+<p>Package of 8 of our most popular flavours: 2 chocolate chunk, 2 s'mores, 2 birthday, and 2 caramel</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8131573940421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8128007602373</id>
+    <published>2024-10-23T15:02:35-04:00</published>
+    <updated>2024-10-23T15:02:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/variety-box"/>
+    <title>Variety Box</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/5_bf189000-ffa0-4ee8-a5f8-9e53b812c0f3.png?v=1729710066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Looking for a box that will check most of the fluffnglaze Cookies boxes? How about a little cookie tasting session with our variety box of 6 cookies. </p>
+<p>There's something for everyone. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8128007602373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8110036353221</id>
+    <published>2024-10-04T13:59:13-04:00</published>
+    <updated>2024-10-04T13:59:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/black-white"/>
+    <title>Black &amp; White</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-24.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Our Black and White cookie is a spinoff of NYC’s famous cookie… We took the name but reimagined it. A caramel cookie with chunks of our brownie and blondie wedged into the center; hence why it is now the black and white cookie.</p>
+<p>We think our reconstructed version is much richer and way more fabulous!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8110036353221</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8110055948485</id>
+    <published>2024-10-04T13:55:55-04:00</published>
+    <updated>2024-10-04T13:55:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/mason"/>
+    <title>Mason</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-23.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>fluffnglaze's take on the traditional New York chocolate chunky cookie incorporating delicious roasted walnuts, dark chocolate and milk chocolate.</span><b></b></p>
+<p dir="ltr"><span>Named after one of our customers who specifically requested this recipe, the Mason cookie lives up to his rigorous expectations, and ours.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8110055948485</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8110056964293</id>
+    <published>2024-10-04T13:52:40-04:00</published>
+    <updated>2024-10-04T13:52:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/pb-j"/>
+    <title>PB &amp; J</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-25.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8">Imagine a peanut butter and jam sandwich but in a cookie form! At 6 ounces, it is filled with creamy peanut butter and raspberry jam.</p>
+<p>We added milk chocolate and caramel to bump up the texture of this delectable treat!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__Featured</s:tag>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8110056964293</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7910872154309</id>
+    <published>2024-07-17T14:37:48-04:00</published>
+    <updated>2024-07-17T14:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/birthday-sprinkle"/>
+    <title>Birthday</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-15.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Created as an homage to the traditional sprinkle cookie; white chocolate and colourful sprinkles combined to create a little celebration in your mouth. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7910872154309</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/8021251621061</id>
+    <published>2024-07-17T14:32:26-04:00</published>
+    <updated>2024-07-17T14:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/caramel"/>
+    <title>Caramel</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-20.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>The most unique cookie on our counter has a combination of milk chocolate, caramel, and caramel chunks. Each bite will bring you back to a nostalgic moment in time.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/8021251621061</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7910878380229</id>
+    <published>2024-05-22T08:52:53-04:00</published>
+    <updated>2024-05-22T08:52:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/smores"/>
+    <title>S&apos;mores</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-17.png?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Inspired by memories made around summer camp fires, our marshmallow, dark chocolate, and graham crackers our S'mores cookie will taste just like those childhood summer nights. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7910878380229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7910861832389</id>
+    <published>2024-05-22T08:46:08-04:00</published>
+    <updated>2024-05-22T08:46:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/strawberry-cookie"/>
+    <title>Strawberry Shortcake</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-16.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A twist on our strawberry shortcake cake combined in a chunk cookie. This tangy cookie includes large pieces of white chocolate and dehydrated, chewy strawberries.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7910861832389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7866059194565</id>
+    <published>2024-05-03T10:11:08-04:00</published>
+    <updated>2024-05-03T10:11:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/double-dark-chunk"/>
+    <title>Double Dark Chunk</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-19.jpg?v=1727835564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Double the chocolate, double the fun! This cookie is loaded with 100% cocoa and dark chocolate chips. If you are a chocolate lover, then this cookie will certainly speak your love language.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866059194565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7866059030725</id>
+    <published>2024-05-03T10:10:51-04:00</published>
+    <updated>2024-05-03T10:10:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/judy-cookie"/>
+    <title>Judy Cookie</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-18.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>The famous Judy cookie was derived from none other than our persistent and determined customer, eager to have a cookie named in her honour. The Judy cookie was created to her particular taste, filled with toasted pecans and milk chocolate, salted caramel. The Judy cookie has become the star of the show.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7866059030725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://fluffnglazebakery.com/products/7746617114821</id>
+    <published>2024-04-05T15:28:57-04:00</published>
+    <updated>2024-04-05T15:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://fluffnglazebakery.com/products/cookie-4"/>
+    <title>Chocolate Chunk</title>
+    <s:type></s:type>
+    <s:vendor>fluffnglaze Bakery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0651/6119/9813/files/fluffnglaze-13.jpg?v=1727835563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>fluffnglaze Bakery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our version of the classic chocolate chip cookie, bursting with white and dark chocolate chunks. Perfect for the traditionalist cookie lover in you. This one hits the spot, every single time. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://fluffnglazebakery.com/products/7746617114821</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
